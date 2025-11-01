@@ -1,0 +1,4 @@
+Invoking command in '/home/kwaii/zpm/build/tuna': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kwaii/zpm/build/tuna -- -j8 -l8
+Invoked command in '/home/kwaii/zpm/build/tuna' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kwaii/zpm/build/tuna -- -j8 -l8
+Invoking command in '/home/kwaii/zpm/build/tuna': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kwaii/zpm/build/tuna
+Invoked command in '/home/kwaii/zpm/build/tuna' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kwaii/zpm/build/tuna

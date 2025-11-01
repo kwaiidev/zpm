@@ -1,0 +1,27 @@
+[0.021s] Invoking command in '/home/kwaii/zpm/build/tuna': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kwaii/zpm/build/tuna -- -j8 -l8
+[0.079s] Invoked command in '/home/kwaii/zpm/build/tuna' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kwaii/zpm/build/tuna -- -j8 -l8
+[0.094s] Invoking command in '/home/kwaii/zpm/build/tuna': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kwaii/zpm/build/tuna
+[0.104s] -- Install configuration: ""
+[0.105s] -- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/launch
+[0.105s] -- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/launch/sim_garden.launch.py
+[0.105s] -- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/launch/robot.launch.py
+[0.106s] -- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/urdf
+[0.106s] -- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/urdf/zpm_robot.urdf.xacro
+[0.106s] -- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/worlds
+[0.106s] -- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/worlds/simWorld.sdf
+[0.107s] -- Up-to-date: /home/kwaii/zpm/install/tuna/share/ament_index/resource_index/package_run_dependencies/tuna
+[0.107s] -- Up-to-date: /home/kwaii/zpm/install/tuna/share/ament_index/resource_index/parent_prefix_path/tuna
+[0.107s] -- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/environment/ament_prefix_path.sh
+[0.108s] -- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/environment/ament_prefix_path.dsv
+[0.108s] -- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/environment/path.sh
+[0.108s] -- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/environment/path.dsv
+[0.109s] -- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/local_setup.bash
+[0.109s] -- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/local_setup.sh
+[0.109s] -- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/local_setup.zsh
+[0.110s] -- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/local_setup.dsv
+[0.111s] -- Installing: /home/kwaii/zpm/install/tuna/share/tuna/package.dsv
+[0.111s] -- Up-to-date: /home/kwaii/zpm/install/tuna/share/ament_index/resource_index/packages/tuna
+[0.111s] -- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/cmake/tunaConfig.cmake
+[0.112s] -- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/cmake/tunaConfig-version.cmake
+[0.112s] -- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/package.xml
+[0.112s] Invoked command in '/home/kwaii/zpm/build/tuna' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kwaii/zpm/build/tuna

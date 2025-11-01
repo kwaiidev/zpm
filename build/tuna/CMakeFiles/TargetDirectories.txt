@@ -1,0 +1,9 @@
+/home/kwaii/zpm/build/tuna/CMakeFiles/uninstall.dir
+/home/kwaii/zpm/build/tuna/CMakeFiles/tuna_uninstall.dir
+/home/kwaii/zpm/build/tuna/CMakeFiles/test.dir
+/home/kwaii/zpm/build/tuna/CMakeFiles/edit_cache.dir
+/home/kwaii/zpm/build/tuna/CMakeFiles/rebuild_cache.dir
+/home/kwaii/zpm/build/tuna/CMakeFiles/list_install_components.dir
+/home/kwaii/zpm/build/tuna/CMakeFiles/install.dir
+/home/kwaii/zpm/build/tuna/CMakeFiles/install/local.dir
+/home/kwaii/zpm/build/tuna/CMakeFiles/install/strip.dir

@@ -1,0 +1,4 @@
+source;share/tuna/local_setup.bash
+source;share/tuna/local_setup.dsv
+source;share/tuna/local_setup.sh
+source;share/tuna/local_setup.zsh

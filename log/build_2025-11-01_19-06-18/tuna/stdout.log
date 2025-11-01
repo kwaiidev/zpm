@@ -1,0 +1,23 @@
+-- Install configuration: ""
+-- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/launch
+-- Installing: /home/kwaii/zpm/install/tuna/share/tuna/launch/sim_garden.launch.py
+-- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/launch/robot.launch.py
+-- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/urdf
+-- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/urdf/zpm_robot.urdf.xacro
+-- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/worlds
+-- Installing: /home/kwaii/zpm/install/tuna/share/tuna/worlds/simWorld.sdf
+-- Up-to-date: /home/kwaii/zpm/install/tuna/share/ament_index/resource_index/package_run_dependencies/tuna
+-- Up-to-date: /home/kwaii/zpm/install/tuna/share/ament_index/resource_index/parent_prefix_path/tuna
+-- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/environment/ament_prefix_path.sh
+-- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/environment/path.sh
+-- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/environment/path.dsv
+-- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/local_setup.bash
+-- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/local_setup.sh
+-- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/local_setup.zsh
+-- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/local_setup.dsv
+-- Installing: /home/kwaii/zpm/install/tuna/share/tuna/package.dsv
+-- Up-to-date: /home/kwaii/zpm/install/tuna/share/ament_index/resource_index/packages/tuna
+-- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/cmake/tunaConfig.cmake
+-- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/cmake/tunaConfig-version.cmake
+-- Up-to-date: /home/kwaii/zpm/install/tuna/share/tuna/package.xml

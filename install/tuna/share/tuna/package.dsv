@@ -1,0 +1,8 @@
+source;share/tuna/hook/cmake_prefix_path.ps1
+source;share/tuna/hook/cmake_prefix_path.dsv
+source;share/tuna/hook/cmake_prefix_path.sh
+source;share/tuna/local_setup.bash
+source;share/tuna/local_setup.dsv
+source;share/tuna/local_setup.ps1
+source;share/tuna/local_setup.sh
+source;share/tuna/local_setup.zsh

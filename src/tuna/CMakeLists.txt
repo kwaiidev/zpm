@@ -23,4 +23,19 @@ if(BUILD_TESTING)
   ament_lint_auto_find_test_dependencies()
 endif()
 
+# Install launch files
+install(DIRECTORY launch
+  DESTINATION share/${PROJECT_NAME}
+)
+
+# Install URDF files
+install(DIRECTORY urdf
+  DESTINATION share/${PROJECT_NAME}
+)
+
+# Install world files
+install(DIRECTORY worlds
+  DESTINATION share/${PROJECT_NAME}
+)
+
 ament_package()
